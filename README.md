@@ -6,7 +6,7 @@
 
 - 🔭 I'm actively engaged in multiple projects, dedicated to elevating my automation skills to a more advanced level of expertise. You can find those in my GitHub.
 - 🌱 I’m currently upskilling in API Testing using RestAssured.
-- 📫 reach me ****praveenkqa800@gmail.com****
+- 📫 reach me ****praveen.gyj@gmail.com****
 
 <h5 align="left">Connect with me : <a href="https://linkedin.com/in/praveenqa" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="praveenqa-hub" height="25" width="30" /></a></h5>
 <h4 align="left">Languages and Tools:</h4>
