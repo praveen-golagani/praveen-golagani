@@ -1,23 +1,34 @@
 ## 👋 Hi, I'm Praveen Golagani  
-### 🧪 SDET | QA Automation Engineer | Open to Remote & India Roles
+### 🧪 SDET | QA Automation Engineer | Open to India & Remote Roles
 
-<p align="right">
-  <img alt="QA Automation" width="330"
-  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
-</p>
+<table>
+<tr>
+<td width="65%">
 
-QA Automation Engineer with **3.5+ years of hands-on experience** designing, building, and maintaining **scalable test automation frameworks** for web and API testing.
+QA Automation Engineer with **3.5+ years of hands-on experience** designing and maintaining **scalable automation frameworks** for web and API testing.
 
-Strong focus on **quality engineering, CI/CD integration, and test reliability** in fast-moving agile teams.
+I focus on **reliable test automation, CI/CD integration, and quality engineering** in fast-paced agile environments.
 
 ---
 
-## 🎯 Professional Focus
+### 🎯 What I Do
+- Build maintainable **UI & API automation frameworks**
+- Integrate automation into **CI/CD pipelines**
+- Improve test coverage without slowing releases
+- Write tests teams can actually trust
 
-- Building **maintainable UI & API automation frameworks**
-- Driving automation into **CI/CD pipelines**
-- Improving test coverage without slowing delivery
-- Writing reliable tests that teams actually trust
+</td>
+<td width="35%" align="center">
+
+<img 
+  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" 
+  width="300" 
+  alt="QA Automation."
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,44 +46,11 @@ Strong focus on **quality engineering, CI/CD integration, and test reliability**
 
 ---
 
-## 📊 GitHub Activity (Signal, not noise)
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveen-golagani&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-golagani&theme=tokyonight" />
-</p>
-
----
-
-## 🔧 Core Skills at a Glance
-
-![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue)
-![Java](https://img.shields.io/badge/Java-Automation-orange)
-![API Testing](https://img.shields.io/badge/API-Testing-yellow)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-purple)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-
----
-
-## 🚀 Open to Opportunities
-
-### 🔍 Looking for:
-- **SDET / QA Automation Engineer**
-- **Remote (India) or India-based roles**
-
-### 💡 What I bring:
-- 3.5+ years of real-world QA experience
-- Strong automation mindset (UI + API)
-- CI/CD-first testing approach
-- Solid fundamentals: STLC, test strategy, risk-based testing
-
----
-
-<p align="center">
-  <i>"Quality is not a phase — it's a discipline."</i>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-golagan
