@@ -27,10 +27,10 @@ Strong focus on **quality engineering, CI/CD integration, and test reliability**
 |-----|------|
 | **UI Automation** | Playwright (TypeScript), Selenium |
 | **API Testing** | RestAssured, Postman, Playwright API |
-| **Design Patterns** | Page Object Model, BDD |
+| **Design Patterns** | Page Object Model, Cucumber BDD |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Reporting** | Allure |
-| **Languages** | TypeScript, Java, Python, SQL |
+| **Languages** | TypeScript, Java, SQL |
 | **Tools** | Git, GitHub, VS Code, Docker |
 
 ---
