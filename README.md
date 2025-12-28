@@ -49,8 +49,10 @@ I focus on **reliable test automation, CI/CD integration, and quality engineerin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen-golagani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen-golagani&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-golagan
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-golagani&theme=tokyonight" />
+</p>
+
