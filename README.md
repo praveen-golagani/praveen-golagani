@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Praveen Golagani  
 ### <img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/0212112e-b8c3-49ec-9790-f3a46becabf5" /> SDET | QA Automation Engineer | ISTQB Certified
- 
-
 <table>
 <tr>
 <td width="65%">
@@ -46,6 +44,10 @@ I focus on **reliable test automation, CI/CD integration, and quality engineerin
 | **Tools** | Git, GitHub, VS Code, Docker |
 
 ---
+ ## 🥇 Certifications
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
+</p>
 
 ## 📊 GitHub Activity
 
