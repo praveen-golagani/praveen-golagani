@@ -1,22 +1,22 @@
 ## 👋 Hi, I'm Praveen Golagani  
 
-### SDET | QA Automation Engineer | ISTQB Certified  
+### SDET | Automation Engineer | Playwright | API Testing | ISTQB Certified  
 
 <table>
 <tr>
 <td width="65%">
 
-QA Automation Engineer with hands-on experience in functional and automation testing, focusing on **reliable test automation**, **API testing**, and **quality engineering**.
+I am an automation-focused QA professional with **hands-on experience** in building and maintaining **UI and API test automation** using modern tools and frameworks.
 
-I enjoy building **maintainable automation frameworks**, improving test coverage, and ensuring application quality in fast-paced agile environments.
+My focus is on writing **reliable, maintainable automated tests**, improving test coverage, and continuously upskilling toward strong **SDET-level engineering practices**.
 
 ---
 
 ### 🎯 What I Do
-- Build maintainable **UI & API automation frameworks**
-- Write reliable automated tests teams can trust
-- Strengthen test coverage without slowing releases
-- Continuously upskill toward **SDET-level responsibilities**
+- Build maintainable **UI & API automation**
+- Design readable and reusable **automation frameworks**
+- Improve test coverage without slowing releases
+- Learn and apply **quality engineering best practices**
 
 </td>
 <td width="35%" align="center">
@@ -24,7 +24,7 @@ I enjoy building **maintainable automation frameworks**, improving test coverage
 <img 
   src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" 
   width="280" 
-  alt="QA Automation Engineer"
+  alt="Automation Engineer"
 />
 
 </td>
@@ -48,31 +48,10 @@ I enjoy building **maintainable automation frameworks**, improving test coverage
 ---
 
 ## 🥇 Certifications
-
 <p align="center">
-  <img src="https://www.istqb.org/static/istqb_logo.svg" width="120" alt="ISTQB Logo"/>
+  <img src="https://isqi.org/media/a2/5c/00/1702325397/Certified%20Tester%20Foundation%20Level%20Agile%20Tester%20(CTFL-AT).png" alt="ISTQB Certified Tester – Foundation Level (CTFL), 
+  ISTQB Agile Tester Extension (CTFL-AT)" height="120 px" width="150 px"/>
 </p>
-
-<p align="center">
-  <img 
-    src="https://www.istqb.org/images/certifications/foundation/CTFL_Logo.png" 
-    alt="ISTQB Certified Tester Foundation Level" 
-    width="120"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://www.istqb.org/images/certifications/agile/CTFL-AT_Logo.png" 
-    alt="ISTQB Agile Tester Extension" 
-    width="120"
-  />
-</p>
-
-<p align="center">
-  <b>ISTQB Certified Tester – Foundation Level (CTFL)</b><br/>
-  <b>ISTQB Agile Tester Extension (CTFL-AT)</b>
-</p>
-
----
 
 ## 📂 Featured Projects
 
@@ -80,7 +59,7 @@ I enjoy building **maintainable automation frameworks**, improving test coverage
   Hands-on automation project using **Playwright + TypeScript + Cucumber**, focusing on readable BDD scenarios, reusable step definitions, and maintainable test design.
 
 - **API Automation with REST Assured** *(in progress)*  
-  Strengthening API automation fundamentals including request validation, response assertions, and data-driven testing.
+  Practicing API automation fundamentals including request validation, response assertions, and data-driven testing.
 
 ---
 
@@ -102,4 +81,4 @@ I enjoy building **maintainable automation frameworks**, improving test coverage
 
 ---
 
-> _“Consistency beats intensity. One solid step at a time.”_
+> _“Consistency over intensity. One step at a time.”_
