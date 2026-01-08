@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Praveen Golagani  
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0212112e-b8c3-49ec-9790-f3a46becabf5" />
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0212112e-b8c3-49ec-9790-f3a46becabf5" />
  SDET | QA Automation Engineer | ISTQB Certified
 
 <table>
