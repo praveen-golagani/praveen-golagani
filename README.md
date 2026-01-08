@@ -77,7 +77,6 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/praveen-golagani  
-- **GitHub:** https://github.com/praveen-golagani  
 
 ---
 
