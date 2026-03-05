@@ -6,7 +6,7 @@
 <tr>
 <td width="65%">
 
-I am an automation-focused QA professional with **hands-on experience** in building and maintaining **UI and API test automation** using modern tools and frameworks.
+I am a quality-focused fullstack qa professional with **hands-on experience** in building and maintaining **UI and API test automation** using modern tools and frameworks.
 
 My focus is on writing **reliable, maintainable automated tests**, improving test coverage, and continuously upskilling toward strong **SDET-level engineering practices**.
 
@@ -37,12 +37,12 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 
 | Area | Tools |
 |-----|------|
-| **UI Automation** | Playwright (TypeScript), Selenium |
-| **API Testing** | REST Assured, Postman, Playwright API |
-| **Automation Design** | Page Object Model, Cucumber (BDD) |
+| **UI Automation** | Playwright (TypeScript) |
+| **API Testing** | Playwright, Postman |
+| **Automation Design** | Page Object Model, Cucumber (BDD), Robot FrameWork |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Reporting** | Allure |
-| **Languages** | TypeScript, Java, SQL |
+| **Languages** | TypeScript, Python, SQL |
 | **Tools** | Git, GitHub, VS Code |
 
 ---
@@ -58,9 +58,11 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 - **Playwright TypeScript BDD Automation**  
   Hands-on automation project using **Playwright + TypeScript + Cucumber**, focusing on readable BDD scenarios, reusable step definitions, and maintainable test design.
 
-- **API Automation with REST Assured** *(in progress)*  
+- **API Automation with Playwright**   
   Practicing API automation fundamentals including request validation, response assertions, and data-driven testing.
 
+- **Mobile Automation with Appium, Robot FrameWork**   
+  Practicing mobile automation fundamentals 
 ---
 
 ## 📊 GitHub Activity
