@@ -39,10 +39,10 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 |-----|------|
 | **UI Automation** | Playwright (TypeScript) |
 | **API Testing** | Playwright, Postman |
-| **Automation Design** | Page Object Model, Cucumber (BDD), Robot FrameWork |
+| **Automation Design** | Page Object Model, Cucumber (BDD) |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Reporting** | Allure |
-| **Languages** | TypeScript, Python, SQL |
+| **Languages** | TypeScript, Python, Java, SQL |
 | **Tools** | Git, GitHub, VS Code |
 
 ---
@@ -60,9 +60,6 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 
 - **API Automation with Playwright**   
   Practicing API automation fundamentals including request validation, response assertions, and data-driven testing.
-
-- **Mobile Automation with Appium, Robot FrameWork**   
-  Practicing mobile automation fundamentals 
 ---
 
 ## 📊 GitHub Activity
