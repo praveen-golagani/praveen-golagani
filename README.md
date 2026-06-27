@@ -42,7 +42,6 @@ My focus is on writing **reliable, maintainable automated tests**, improving tes
 | **Automation Design** | Page Object Model, Cucumber (BDD) |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Reporting** | Allure |
-| **Languages** | TypeScript, Python, Java, SQL |
 | **Tools** | Git, GitHub, VS Code |
 
 ---
